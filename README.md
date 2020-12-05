@@ -131,8 +131,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           
 
-          
-          and alows you to stack the blocks on top of eachother </h2>
+
        
           
               <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Code Combat</span></h2>
